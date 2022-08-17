@@ -20,3 +20,5 @@
 [![Instagram](https://user-images.githubusercontent.com/102764942/174713529-1d75456e-f22f-4be6-a3f2-bcc97adb387e.png)](https://www.instagram.com/brasilinodesouza)
 
 ---
+
+![snake gif](https://github.com/brasilinodesouza/brasilinodesouza/blob/output/github-contribution-grid-snake.svg)
