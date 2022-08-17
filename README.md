@@ -20,9 +20,16 @@
 [![Instagram](https://user-images.githubusercontent.com/102764942/174713529-1d75456e-f22f-4be6-a3f2-bcc97adb387e.png)](https://www.instagram.com/brasilinodesouza)
 
 ---
-<div align="center">
+<div align="left">
   <a href="https://github.com/brasilinodesouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brasilinodesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasilinodesouza&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
 
 ![snake gif](https://github.com/brasilinodesouza/brasilinodesouza/blob/output/github-contribution-grid-snake.svg)
+
+
+  
+
+ 
