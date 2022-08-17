@@ -3,3 +3,5 @@
 - ---
 [![linkedin](https://user-images.githubusercontent.com/102764942/174713365-8291303a-6241-4fa6-8d87-a5f29c33f859.png)](https://www.linkedin.com/in/brasilinodesouza/)
 [![Instagram](https://user-images.githubusercontent.com/102764942/174713529-1d75456e-f22f-4be6-a3f2-bcc97adb387e.png)](https://www.instagram.com/brasilinodesouza)
+
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
