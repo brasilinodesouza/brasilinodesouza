@@ -21,4 +21,4 @@
 
 ---
 ![brasilinodesouza GitHub stats](https://github-readme-stats.vercel.app/api?username=brasilinodesouza&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brasilinodesouza&layout=compact)](https://github.com/brasilinodesouza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brasilinodesouza&layout=compact&theme=dracula)](https://github.com/brasilinodesouza/github-readme-stats)
