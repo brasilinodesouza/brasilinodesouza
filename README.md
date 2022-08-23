@@ -20,5 +20,8 @@
 [![linkedin](https://user-images.githubusercontent.com/102764942/174713365-8291303a-6241-4fa6-8d87-a5f29c33f859.png)](https://www.linkedin.com/in/brasilinodesouza/)
 
 ---
-![brasilinodesouza GitHub stats](https://github-readme-stats.vercel.app/api?username=brasilinodesouza&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brasilinodesouza&layout=compact&theme=dracula)](https://github.com/brasilinodesouza/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/brasilinodesouza">
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=brasilinodesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasilinodesouza&layout=compact&langs_count=7&theme=dracula"/>
+</div>
