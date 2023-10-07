@@ -4,7 +4,7 @@
 ## Sobre
 > Brasilino de Souza Neto / 30y
 
-> Análise e Desenvolvimento de Sistemas 2/5
+> Análise e Desenvolvimento de Sistemas 4/5
 
 ---
 ### Estudando:
