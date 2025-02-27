@@ -5,6 +5,7 @@
 > Brasilino de Souza Neto / 32y
 
 > Formado em análise e desenvolvimento de sistemas
+
 > Desenvolvedor FullStack
 
 ---
