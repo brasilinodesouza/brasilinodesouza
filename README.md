@@ -6,7 +6,7 @@
 
 > Formado em análise e desenvolvimento de sistemas
 
-> Desenvolvedor FullStack
+> Desenvolvedor FullStack C# / VueJS
 
 ---
 
