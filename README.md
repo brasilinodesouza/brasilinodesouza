@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o Brasilino 👋</h1>
 
-<h3 align="center">Desenvolvedor Full Stack | C# · .NET · Vue.js · TypeScript</h3>
+<h3 align="center">Desenvolvedor Full Stack | C# · .NET · Vue.js </h3>
 
 <p align="center">
   Transformando ideias em aplicações, conectando interfaces, APIs e dados.
@@ -73,7 +73,6 @@ Trabalho com desenvolvimento de APIs, regras de negócio, integração entre sis
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
 </p>
 
 ### Ferramentas
@@ -86,7 +85,6 @@ Trabalho com desenvolvimento de APIs, regras de negócio, integração entre sis
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ## 🚀 Projetos em destaque
@@ -111,10 +109,8 @@ Trabalho com desenvolvimento de APIs, regras de negócio, integração entre sis
 ---
 
 <p align="center">
-  <b>Vamos conversar sobre tecnologia e novos projetos?</b><br />
+  <b>Vamos conversar ?</b><br />
   <a href="https://www.linkedin.com/in/brasilinodesouza/">Conecte-se comigo no LinkedIn</a>
 </p>
 
-<p align="center">
-  <sub>Construindo soluções, aprendendo com cada projeto e evoluindo a cada commit.</sub>
-</p>
+
