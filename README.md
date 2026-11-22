@@ -24,7 +24,7 @@
 
 Sou **Brasilino de Souza Neto**, formado em **Análise e Desenvolvimento de Sistemas** e desenvolvedor Full Stack com foco em **C# / ASP.NET Core** no backend e **Vue.js / Vuetify** no frontend.
 
-Trabalho com desenvolvimento de APIs, regras de negócio, integração entre sistemas e bancos de dados. Também desenvolvo projetos com **React, Next.js e TypeScript**.
+Trabalho com desenvolvimento de APIs, regras de negócio, integração entre sistemas e bancos de dados. 
 
 - ⚙️ Desenvolvimento de aplicações MVC e APIs REST.
 - 🎨 Criação de interfaces responsivas e componentes reutilizáveis.
