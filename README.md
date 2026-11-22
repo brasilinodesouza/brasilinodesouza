@@ -87,22 +87,7 @@ Trabalho com desenvolvimento de APIs, regras de negócio, integração entre sis
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </p>
 
-## 🚀 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [**💰 Nosso Dinheiro**](https://github.com/brasilinodesouza/nossodinheiro) | Aplicação de finanças compartilhadas, com receitas, despesas, metas e gráficos. | Next.js, React, TypeScript e Supabase |
-| [**🏠 MeuTerreiro**](https://github.com/brasilinodesouza/meuterreiro) | Sistema de gestão com cadastros, mensalidades, eventos e controle financeiro. | Next.js, React, TypeScript e Supabase |
-| [**📍 BuscaCEP**](https://github.com/brasilinodesouza/Desafio-BuscaCEP) | Consulta de endereços por CEP ou cidade, com integração à API ViaCEP. | C#, JavaScript, HTML e CSS |
-
-<details>
-  <summary><b>📂 Mais projetos e estudos</b></summary>
-
-- [Desafio .NET — Fundamentos](https://github.com/brasilinodesouza/trilha-net-fundamentos-desafio)
-- [Desafio .NET — Explorando a linguagem](https://github.com/brasilinodesouza/trilha-net-explorando-desafio)
-- [Desafio .NET — Banco de dados](https://github.com/brasilinodesouza/trilha-net-banco-de-dados-desafio)
-- [Calculadora](https://github.com/brasilinodesouza/Calculadora)
-- [Cronômetro](https://github.com/brasilinodesouza/Cronometro)
 
 </details>
 
